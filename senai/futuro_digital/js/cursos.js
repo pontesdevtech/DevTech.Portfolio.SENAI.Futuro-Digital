@@ -1,5 +1,5 @@
-const BASE_URL="";
-//const BASE_URL="https://SEUUSUARIO.github.io/senai/futuro-digital/";
+//const BASE_URL="";
+const BASE_URL="https://pontesdevtech.github.io/DevTech.Portfolio.SENAI.Futuro-Digital/";
 
 
 class SenaiCurso extends HTMLElement{
@@ -8,12 +8,12 @@ async connectedCallback(){
 
 const cursoId=this.getAttribute("curso");
 
-const html=await fetch(BASE_URL+"components/curso.html")
+const html=await fetch(BASE_URL+"senai/futuro_digital/components/curso.html")
 .then(r=>r.text());
 
 this.innerHTML=html;
 
-const cursos=await fetch(BASE_URL+"data/cursos.json")
+const cursos=await fetch(BASE_URL+"senai/futuro_digital/data/cursos.json")
 .then(r=>r.json());
 
 const curso=cursos[cursoId];
