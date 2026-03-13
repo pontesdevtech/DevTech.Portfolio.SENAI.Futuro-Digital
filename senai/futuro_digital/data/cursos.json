@@ -1,0 +1,106 @@
+{
+"diagnostico-motores":{
+"descricao":"Realizar diagnósticos avançados em veículos de passeio com segurança e precisão.",
+
+"vantagens":[
+{"icone":"fa-screwdriver-wrench","titulo":"Modo Mão na Massa","texto":"Aprenda diagnosticando motores reais."},
+{"icone":"fa-microchip","titulo":"Tecnologia Automotiva","texto":"Domine sensores e sistemas eletrônicos."},
+{"icone":"fa-chart-line","titulo":"Alta Empregabilidade","texto":"Profissionais de diagnóstico são muito procurados."}
+],
+
+"conteudo":[
+"Combustão em motores ciclo OTTO",
+"Estequiometria",
+"Diagnóstico de sensores",
+"Diagnóstico via scanner automotivo"
+],
+
+"requisitos":[
+{"icone":"fa-user","texto":"17 anos ou mais"},
+{"icone":"fa-graduation-cap","texto":"Ensino fundamental completo"},
+{"icone":"fa-clipboard-check","texto":"Curso básico automotivo"}
+],
+
+"relacionados":[
+{"nome":"Eletricidade Automotiva","carga":"40h"},
+{"nome":"Injeção Eletrônica","carga":"60h"},
+{"nome":"Manutenção de Motores","carga":"80h"}
+]
+},
+
+"eletricidade-automotiva":{
+"descricao":"Aprenda a diagnosticar e reparar sistemas elétricos automotivos.",
+
+"vantagens":[
+{"icone":"fa-bolt","titulo":"Base da Mecânica Moderna","texto":"Entenda os sistemas elétricos dos veículos."},
+{"icone":"fa-car-battery","titulo":"Baterias e Sistemas","texto":"Diagnóstico completo de baterias e carga."}
+],
+
+"conteudo":[
+"Circuitos elétricos automotivos",
+"Leitura de diagramas",
+"Sistema de carga",
+"Sistema de partida"
+],
+
+"requisitos":[
+{"icone":"fa-user","texto":"16 anos ou mais"},
+{"icone":"fa-graduation-cap","texto":"Ensino fundamental"}
+],
+
+"relacionados":[
+{"nome":"Injeção Eletrônica","carga":"60h"},
+{"nome":"Diagnóstico Automotivo","carga":"40h"}
+]
+},
+
+"informatica-basica":{
+"descricao":"Aprenda a utilizar computador, internet e ferramentas digitais.",
+
+"vantagens":[
+{"icone":"fa-laptop","titulo":"Inclusão Digital","texto":"Domine o uso do computador."},
+{"icone":"fa-globe","titulo":"Internet","texto":"Navegue e utilize serviços online."}
+],
+
+"conteudo":[
+"Windows",
+"Internet",
+"Editor de texto",
+"Planilhas"
+],
+
+"requisitos":[
+{"icone":"fa-user","texto":"14 anos ou mais"}
+],
+
+"relacionados":[
+{"nome":"Excel Avançado","carga":"40h"},
+{"nome":"Programação Web","carga":"60h"}
+]
+},
+
+"logica-programacao":{
+"descricao":"Aprenda a pensar como programador e resolver problemas com algoritmos.",
+
+"vantagens":[
+{"icone":"fa-code","titulo":"Base da Programação","texto":"Fundamento para qualquer linguagem."},
+{"icone":"fa-brain","titulo":"Raciocínio Lógico","texto":"Desenvolva pensamento estruturado."}
+],
+
+"conteudo":[
+"Algoritmos",
+"Variáveis",
+"Estruturas condicionais",
+"Laços de repetição"
+],
+
+"requisitos":[
+{"icone":"fa-user","texto":"15 anos ou mais"}
+],
+
+"relacionados":[
+{"nome":"Programação Web","carga":"60h"},
+{"nome":"Python Básico","carga":"40h"}
+]
+}
+}

@@ -1,0 +1,71 @@
+# =========================
+# Sistema operacional
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Logs
+# =========================
+
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# Dependências (Node)
+# =========================
+
+node_modules/
+
+# =========================
+# Build / distribuição
+# =========================
+
+dist/
+build/
+coverage/
+
+# =========================
+# Arquivos temporários
+# =========================
+
+*.tmp
+*.temp
+.cache/
+.parcel-cache/
+
+# =========================
+# IDEs / Editores
+# =========================
+
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# =========================
+# Ambiente
+# =========================
+
+.env
+.env.local
+.env.*.local
+
+# =========================
+# Arquivos de teste
+# =========================
+
+*.spec.js
+*.test.js
+
+# =========================
+# Backup de arquivos
+# =========================
+
+*.bak
+*.backup
+*.old
