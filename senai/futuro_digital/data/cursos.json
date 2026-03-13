@@ -5,6 +5,8 @@
 "vantagens":[
 {"icone":"fa-screwdriver-wrench","titulo":"Modo Mão na Massa","texto":"Aprenda diagnosticando motores reais."},
 {"icone":"fa-microchip","titulo":"Tecnologia Automotiva","texto":"Domine sensores e sistemas eletrônicos."},
+{"icone":"fa-laptop","titulo":"Teste vantagem 1","texto":"Teste domine sensores e sistemas eletrônicos."},
+{"icone":"fa-brain","titulo":"Teste vantagem 2","texto":"Teste 2 domine sensores e sistemas eletrônicos."},
 {"icone":"fa-chart-line","titulo":"Alta Empregabilidade","texto":"Profissionais de diagnóstico são muito procurados."}
 ],
 
@@ -24,6 +26,9 @@
 "relacionados":[
 {"nome":"Eletricidade Automotiva","carga":"40h"},
 {"nome":"Injeção Eletrônica","carga":"60h"},
+{"nome":"Motores Mercedes-Benz","carga":"60h"},
+{"nome":"Motores MWM","carga":"60h"},
+{"nome":"Motores International","carga":"40h"},
 {"nome":"Manutenção de Motores","carga":"80h"}
 ]
 },
