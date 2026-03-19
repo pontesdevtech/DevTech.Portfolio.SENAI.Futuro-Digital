@@ -1,0 +1,11 @@
+#container{
+  padding: 0px 40px;
+  font-family: "Inter", "Roboto", Arial, sans-serif;
+  color: #1f2937;
+}
+
+.titulo-secao{
+  margin-top: 60px;
+  text-align: center;
+  color: #111827;
+}

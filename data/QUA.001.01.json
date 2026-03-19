@@ -1,0 +1,40 @@
+{
+    "QUA.001.01": {
+    "titulo-curso": "Eletromecânico Industrial",
+    "perfil-profissional": "Profissional capacitado para atuar na montagem, manutenção e operação de sistemas eletromecânicos presentes em processos industriais.",
+    "conteudo": "Princípios de mecânica aplicada, eletricidade industrial, leitura de diagramas, manutenção de máquinas e equipamentos, fundamentos de automação e práticas em laboratório técnico.",
+    "requisitos": {
+      "idade-minima": "16 anos",
+      "escolaridade-minima": "Ensino Médio em andamento ou completo",
+      "conhecimentos-necessarios": "Interpretação básica de esquemas técnicos e noções de matemática aplicada."
+    },
+    "orientacoes-matricula": "Realizar inscrição no portal da instituição ou diretamente na unidade do SENAI. Apresentar documentação pessoal e comprovante de escolaridade.",
+    "cursos-complementares": {
+      "curso-complementar-1": {
+        "titulo": "Leitura e Interpretação de Desenho Técnico",
+        "carga-horaria": "24h"
+      },
+      "curso-complementar-2": {
+        "titulo": "Manutenção Mecânica Industrial",
+        "carga-horaria": "40h"
+      }
+    },
+    "vantagens": {
+      "vantagem-1": {
+        "icone": "precision_manufacturing",
+        "titulo": "Mão na Massa",
+        "descricao": "Aprenda fazendo. No SENAI, a prática vem primeiro, com atividades em laboratório e oficinas técnicas."
+      },
+      "vantagem-2": {
+        "icone": "engineering",
+        "titulo": "Infraestrutura Técnica",
+        "descricao": "Ambientes equipados com motores, painéis e instrumentos de medição semelhantes aos utilizados na indústria."
+      },
+      "vantagem-3": {
+        "icone": "workspace_premium",
+        "titulo": "Formação Reconhecida",
+        "descricao": "Certificação valorizada pelo setor industrial, aumentando as oportunidades de inserção no mercado de trabalho."
+      }
+    }
+  }
+}

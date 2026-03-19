@@ -1,0 +1,40 @@
+{
+  "APP.003.01": {
+    "titulo-curso": "Soldagem Industrial",
+    "perfil-profissional": "Profissional qualificado para executar processos de soldagem em estruturas metálicas, seguindo normas técnicas e padrões de qualidade da indústria.",
+    "conteudo": "Processos de soldagem MIG/MAG, TIG e eletrodo revestido, leitura de simbologia de solda, preparação de materiais, inspeção de soldas e segurança no trabalho.",
+    "requisitos": {
+      "idade-minima": "18 anos",
+      "escolaridade-minima": "Ensino Fundamental completo",
+      "conhecimentos-necessarios": "Noções básicas de segurança no trabalho e interpretação de medidas."
+    },
+    "orientacoes-matricula": "Apresentar documentação pessoal e comprovante de escolaridade. Algumas turmas podem exigir avaliação inicial de aptidão prática.",
+    "cursos-complementares": {
+      "curso-complementar-1": {
+        "titulo": "Metrologia Aplicada",
+        "carga-horaria": "24h"
+      },
+      "curso-complementar-2": {
+        "titulo": "Leitura de Desenho Mecânico",
+        "carga-horaria": "24h"
+      }
+    },
+    "vantagens": {
+      "vantagem-1": {
+        "icone": "precision_manufacturing",
+        "titulo": "Mão na Massa",
+        "descricao": "Aprenda fazendo. No SENAI, a prática vem primeiro, com atividades em laboratório e oficinas técnicas."
+      },
+      "vantagem-2": {
+        "icone": "engineering",
+        "titulo": "Infraestrutura Técnica",
+        "descricao": "Ambientes equipados com motores, painéis e instrumentos de medição semelhantes aos utilizados na indústria."
+      },
+      "vantagem-3": {
+        "icone": "workspace_premium",
+        "titulo": "Formação Reconhecida",
+        "descricao": "Certificação valorizada pelo setor industrial, aumentando as oportunidades de inserção no mercado de trabalho."
+      }
+    }
+  }
+}

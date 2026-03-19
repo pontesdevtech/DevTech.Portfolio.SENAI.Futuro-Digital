@@ -1,0 +1,78 @@
+/* ===== BASE ===== */
+body {
+  font-family: "Inter", "Roboto", Arial, sans-serif;
+  background: #f9fafb;
+  color: #1f2937;
+}
+
+/* ===== LISTAS DE CARDS ===== */
+#cards-vantagens,
+#cards-requisitos {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+/* ===== CARD LONGO ===== */
+.card-longo{
+  background: #ffffff;
+  color: #1f2937;
+  margin: 20px auto;
+  padding: 24px;
+  border-radius: 16px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  text-align: justify;
+  max-width: 1000px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* ===== CARD ===== */
+.card {
+  background: #ffffff;
+  color: #1f2937;
+  margin: 10px;
+  padding: 24px;
+  border-radius: 16px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  width: 280px;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover */
+.card:hover,
+.card-longo:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+}
+
+/* Ícone */
+.card .material-symbols-rounded {
+  font-size: 40px;
+  color: #2563eb;
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* Título */
+.card h3 {
+  margin: 10px 0;
+  font-size: 20px;
+  color: #111827;
+}
+
+/* Texto */
+.card p {
+  font-size: 14px;
+  color: #6b7280;
+}
+
+/* Lista conteúdo */
+#conteudo-curso {
+  list-style: none;
+  padding-left: 0;
+}
+
+#conteudo-curso li {
+  color: #374151;
+}
