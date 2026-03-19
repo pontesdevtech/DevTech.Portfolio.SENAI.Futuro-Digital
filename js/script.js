@@ -1,6 +1,6 @@
 
 // Section "vantagens"
-fetch("page.html")
+fetch("https://pontesdevtech.github.io/DevTech.Portfolio.SENAI.Futuro-Digital/page.html")
   .then(response => response.text())
   .then(data => {
     document.getElementById("conteudo").innerHTML = data;

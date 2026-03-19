@@ -1,5 +1,5 @@
-import { gerarCardsRequisitos, gerarCardsVantagens } from "./cards.js";
-import { iniciarTour } from "./tour.js";
+import { gerarCardsRequisitos, gerarCardsVantagens } from "https://pontesdevtech.github.io/DevTech.Portfolio.SENAI.Futuro-Digital/cards.js";
+import { iniciarTour } from "https://pontesdevtech.github.io/DevTech.Portfolio.SENAI.Futuro-Digital/tour.js";
 
 class SenaiCurso extends HTMLElement {
 
@@ -7,14 +7,14 @@ class SenaiCurso extends HTMLElement {
 
     const matriz = this.getAttribute("matriz");
 
-    fetch(`data/${matriz}.json`)
+    fetch(`https://pontesdevtech.github.io/DevTech.Portfolio.SENAI.Futuro-Digital/data/${matriz}.json`)
       .then(response => response.json())
       .then(data => {
 
         const curso = data[matriz];
 
         // Seleciona o componente page para construção
-        return fetch("components/page.html")
+        return fetch("https://pontesdevtech.github.io/DevTech.Portfolio.SENAI.Futuro-Digital/components/page.html")
           .then(response => response.text())
           .then(html => {
 
@@ -45,7 +45,7 @@ class SenaiCurso extends HTMLElement {
 
             
             // ===== INJEÇÃO DO TOUR =====
-            return fetch("components/tour-page.html")
+            return fetch("https://pontesdevtech.github.io/DevTech.Portfolio.SENAI.Futuro-Digital/components/tour-page.html")
               .then(res => res.text())
               .then(tourHTML => {
 
