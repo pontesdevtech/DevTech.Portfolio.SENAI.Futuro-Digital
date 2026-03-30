@@ -1,0 +1,47 @@
+{
+  "APP.001.01": {
+    "titulo-curso": "Técnicas de Elétrica Veicular",
+    "perfil-profissional": "Realizar montagem e manutenção preventiva e corretiva em sistemas elétricos, equipamentos e componentes veiculares, de acordo com as normas técnicas e legislação específica, condições de qualidade ambientais e segurança.",
+    "conteudo": [
+                "TEMAS TRANSVERSAIS: Educação Ambiental, Gestão da Qualidade, Saúde e Segurança no Trabalho e Relações Interpessoais;", 
+                "Eletricidade Básica;", 
+                "Elementos de Elétrica Veicular: Bateria, Alternador, Fusíveis e Cabos;", 
+                "Esquema Elétrico Veicular: Computador de ignição, relés auxiliares, circuitos de força e comando, esquema de partida, esquema de iluminação de faróis, esquema de sinalização e advertência, esquema de luz de freio, esquema de luz de ré, esquema de luz de cortesia, esquema de luz de lampejo;", 
+                "Situações Típicas de defeitos com veículos: Descarregamento de bateria, queima de fusível, queima de lâmpadas e procedimentos de emergências;", 
+                "Montagem de motor de partida, medição de tensão da bateria, medição de corrente nos circuitos veiculares;",
+                "Segurança: EPI's, Procedimentos e Normas."
+              ],
+    "requisitos": {
+      "idade-minima": "18 anos",
+      "escolaridade-minima": "Ensino Fundamental completo",
+      "conhecimentos-necessarios": "Conhecimentos Básicos em Elétrica Veicular."
+    },
+    "cursos-complementares": {
+      "curso-complementar-1": {
+        "titulo": "Eletricidade Básica Industrial",
+        "carga-horaria": "40h"
+      },
+      "curso-complementar-2": {
+        "titulo": "Segurança em Instalações Elétricas (NR-10)",
+        "carga-horaria": "40h"
+      }
+    },
+    "vantagens": {
+      "vantagem-1": {
+        "icone": "precision_manufacturing",
+        "titulo": "Mão na Massa",
+        "descricao": "Aprenda fazendo. No SENAI, a prática vem primeiro, com atividades em laboratório e oficinas técnicas."
+      },
+      "vantagem-2": {
+        "icone": "engineering",
+        "titulo": "Infraestrutura Técnica",
+        "descricao": "Ambientes equipados com motores, painéis e instrumentos de medição semelhantes aos utilizados na indústria."
+      },
+      "vantagem-3": {
+        "icone": "workspace_premium",
+        "titulo": "Formação Reconhecida",
+        "descricao": "Certificação valorizada pelo setor industrial, aumentando as oportunidades de inserção no mercado de trabalho."
+      }
+    }
+  }
+}
