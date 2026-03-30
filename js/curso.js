@@ -1,5 +1,5 @@
-import { gerarCardsRequisitos, gerarCardsVantagens } from "https://pontesdevtech.github.io/DevTech.Portfolio.SENAI.Futuro-Digital/cards.js";
-import { iniciarTour } from "https://pontesdevtech.github.io/DevTech.Portfolio.SENAI.Futuro-Digital/tour.js";
+import { gerarCardsRequisitos, gerarCardsVantagens } from "https://pontesdevtech.github.io/DevTech.Portfolio.SENAI.Futuro-Digital/js/cards.js";
+import { iniciarTour } from "https://pontesdevtech.github.io/DevTech.Portfolio.SENAI.Futuro-Digital/js/tour.js";
 
 class SenaiCurso extends HTMLElement {
 
