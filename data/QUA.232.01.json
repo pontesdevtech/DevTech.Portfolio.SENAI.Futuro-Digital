@@ -1,0 +1,50 @@
+{
+  "QUA.232.01": {
+    "titulo-curso": "Operador de Empilhadeira",
+    "perfil-profissional": "Operar empilhadeira, seguindo normas regulamentadoras, padrões técnicos de segurança, qualidade e respeito ao meio ambiente.",
+    "conteudo": [
+              "Relações Interpessoais",
+              "Saúde e Segurança do Trabalho",
+              "Gestão da Qualidade;",
+              "Educação Ambiental e Comportamental.",
+              "Princípio de Funcionamento:",
+              "Motor;",
+              "Sistema de transmissão",
+              "Sistema hidráulico",
+              "Sistema elétrico",
+              "Tipos de Empilhadeira",
+              "Componentes da Empilhadeira",
+              "Normas de Segurança",
+              "Equipamento de Proteção Individual (EPI)",
+              "Direção Defensiva",
+              "Símbolos Pictográficos",
+              "Sinalização Manual",
+              "Segurança na Operação Com Empilhadeira",
+              "Check List",
+              "Regras de Carregamento, Movimentação e Empilhamento",
+              "Técnicas de Operação"
+              ],
+    "requisitos": {
+      "idade-minima": "18 anos",
+      "escolaridade-minima": "Ensino Fundamental a partir do 6º ano",
+      "conhecimentos-necessarios": "Não é necessário ter conhecimentos na área."
+    },
+    "vantagens": {
+      "vantagem-1": {
+        "icone": "precision_manufacturing",
+        "titulo": "Mão na Massa",
+        "descricao": "Aprenda fazendo. No SENAI, a prática vem primeiro, com atividades em laboratório e oficinas técnicas."
+      },
+      "vantagem-2": {
+        "icone": "engineering",
+        "titulo": "Infraestrutura Técnica",
+        "descricao": "Ambientes equipados com motores, painéis e instrumentos de medição semelhantes aos utilizados na indústria."
+      },
+      "vantagem-3": {
+        "icone": "workspace_premium",
+        "titulo": "Formação Reconhecida",
+        "descricao": "Certificação valorizada pelo setor industrial, aumentando as oportunidades de inserção no mercado de trabalho."
+      }
+    }
+  }
+}
