@@ -9,6 +9,7 @@ body {
 #cards-vantagens,
 #cards-requisitos {
   display: flex;
+  flex-wrap: wrap;
   width: 100%;
   justify-content: center;
 }
@@ -35,6 +36,7 @@ body {
   border-radius: 16px;
   box-shadow: 0 6px 18px rgba(0,0,0,0.08);
   width: 280px;
+  flex: 1 1 300px;
   text-align: center;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
