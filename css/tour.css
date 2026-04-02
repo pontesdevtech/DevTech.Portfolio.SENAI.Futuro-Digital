@@ -19,7 +19,7 @@ body {
   width: 100%;
   max-width: 800px;
   aspect-ratio: 4 / 3;
-  background: #ffffff;
+  background: #034ea3;
   border-radius: 12px;
   padding: 20px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.12);
@@ -45,8 +45,8 @@ body {
 
 /* ===== TEXTO ===== */
 .tour-step p {
-  font-size: 15px;
-  color: #374151;
+  font-size: 20px;
+  color: #ffffff;
   line-height: 1.5;
 }
 
@@ -64,7 +64,7 @@ body {
   padding: 10px;
   border: none;
   border-radius: 6px;
-  font-size: 14px;
+  font-size: 18px;
   cursor: pointer;
   transition: 0.2s;
 }
@@ -77,13 +77,13 @@ body {
 
 /* Próximo */
 #nextBtn {
-  background: #2563eb;
+  background: #f05724;
   color: #ffffff;
 }
 
 /* Iniciar */
 #initBtn {
-  background: #2563eb;
+  background: #f05724;
   color: #ffffff;
   font-weight: 600;
 }
@@ -91,7 +91,7 @@ body {
 /* Hover */
 #nextBtn:hover,
 #initBtn:hover {
-  background: #1d4ed8;
+  background: #ff9673;
 }
 
 #prevBtn:hover {
@@ -156,6 +156,6 @@ body {
 .tour-progress-bar {
   height: 100%;
   width: 0%;
-  background: #2563eb;
+  background: #f05724;
   transition: width 0.3s ease;
 }

@@ -16,8 +16,8 @@ body {
 
 /* ===== CARD LONGO ===== */
 .card-longo{
-  background: #ffffff;
-  color: #1f2937;
+  background: #f05724;
+  color: #ffffff;
   margin: 20px auto;
   padding: 24px;
   border-radius: 16px;
@@ -29,8 +29,9 @@ body {
 
 /* ===== CARD ===== */
 .card {
-  background: #ffffff;
-  color: #1f2937;
+  
+  background: #034ea3;
+  color: #ffffff;
   margin: 10px;
   padding: 24px;
   border-radius: 16px;
@@ -51,7 +52,7 @@ body {
 /* Ícone */
 .card .material-symbols-rounded {
   font-size: 40px;
-  color: #2563eb;
+  color: #f05724;
   display: block;
   margin-bottom: 10px;
 }
@@ -60,13 +61,13 @@ body {
 .card h3 {
   margin: 10px 0;
   font-size: 20px;
-  color: #111827;
+  color: #4cd5ff;
 }
 
 /* Texto */
 .card p {
   font-size: 14px;
-  color: #6b7280;
+  color: #ffffff;
 }
 
 /* Lista conteúdo */
@@ -76,5 +77,5 @@ body {
 }
 
 #conteudo-curso li {
-  color: #374151;
+  color: #ffffff;
 }
